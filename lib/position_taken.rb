@@ -5,10 +5,10 @@ taken=nil;
 
   if board[index]==""|| board[index]==" "|| board[index]==nil
       taken= false
-  else 
+  else
     taken= true
 
 
 
-return taken
+end
 end
